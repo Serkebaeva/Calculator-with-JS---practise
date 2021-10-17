@@ -106,5 +106,3 @@ const previousOperandTextElement = document.querySelectorAll(
 const currentOperandTextElement = document.querySelectorAll(
   "[data-current-operand]"
 );
-
-console.log(numberButtons);
